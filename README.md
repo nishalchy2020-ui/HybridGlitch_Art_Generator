@@ -23,7 +23,7 @@ Key features include:
 
 
 ## Setup Instructions
-### 1. Clone the repository
+### Clone the repository
 ```
 git clone https://github.com/yourusername/HybridGlitch-Art-Generator.git
 cd HybridGlitch-Art-Generator
