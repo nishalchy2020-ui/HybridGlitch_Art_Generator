@@ -7,6 +7,7 @@ from ai_generator import ai_guided_glitch
 from PIL import Image
 import os
 import random
+import numpy as np
 import glob
 
 st.set_page_config(page_title="HybridGlitch Art Generator", layout="centered")
