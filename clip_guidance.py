@@ -1,14 +1,12 @@
 import torch
 import clip
-import numpy as np
 from PIL import Image
 
-# Load CLIP model (CPU)
 device = "cpu"
 model, preprocess = clip.load("ViT-B/32", device=device)
 
 def clip_score(image_np, prompt):
-   
+    
     image = Image.fromarray(image_np)
     image_input = preprocess(image).unsqueeze(0).to(device)
     text_input = clip.tokenize([prompt]).to(device)
