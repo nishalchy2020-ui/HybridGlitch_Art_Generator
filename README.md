@@ -1,10 +1,9 @@
 # HybridGlitch_Art_Generator
 
 **Student name:** Nishal Chaudhary  
-**Student number:** [Your Student Number]  
-**Project title:** HybridGlitch Art Generator – AI-Inspired Glitch Art from Hybrid Images  
-**Link to project video recording:** [Insert Link Here]  
-
+**Student number:** 2313325
+**Project title:** HybridGlitch Art Generator - AI-Inspired Glitch Art from Hybrid Images  
+**Link to project video recording:** 
 ---
 
 ## Project Overview
