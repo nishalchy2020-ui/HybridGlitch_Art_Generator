@@ -3,7 +3,7 @@
 **Student name:** Nishal Chaudhary  
 **Student number:** 2313325
 **Project title:** HybridGlitch Art Generator - AI-Inspired Glitch Art from Hybrid Images  
-**Link to project video recording:** 
+**Link to project video recording:** https://uca.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8ca27cf9-22b4-4cc6-95af-b3e30098a69f
 ---
 
 ## Project Overview
